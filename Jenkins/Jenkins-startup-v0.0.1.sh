@@ -1,3 +1,4 @@
+#!/bin/bash
 yum update -y
 yum install java-17* -y
 sudo wget -O /etc/yum.repos.d/jenkins.repo \
